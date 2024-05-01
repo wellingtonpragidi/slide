@@ -10,8 +10,6 @@
     display: block;
     margin: auto;
     top: 0;
-    /*left: 50%;
-    transform: translateX(-50%);*/
     animation-name: slidetop;
     animation-duration: 0.5s; 
     animation-fill-mode: both; 
