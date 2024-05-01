@@ -8,7 +8,3 @@
     <span class="next">⟫</span>
 </div>
 <script src="https://raw.githubusercontent.com/wellingtonpragidi/slide/main/slide.js"></script>
-<script>
-</script>
-</body>
-</html>
