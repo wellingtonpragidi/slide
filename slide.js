@@ -1,9 +1,9 @@
 let slide = {
     index: 1,
-    prev: document.querySelector(".popslide .prev"),
-    next: document.querySelector(".popslide .next"),
+    prev: document.querySelector(".slide .prev"),
+    next: document.querySelector(".slide .next"),
     slides: function(n) {
-        let slides = document.querySelectorAll(".popslide img");
+        let slides = document.querySelectorAll(".slide img");
         if(n > slides.length) { 
             this.index = 1; 
         };
